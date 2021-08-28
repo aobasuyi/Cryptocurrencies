@@ -12,7 +12,7 @@ The technical analysis deliverables required to complete the Cryptocurrencies an
 
 
 ## Resources
-- Data Source: This analysis was performed using the  [crypto_data](https://github.com/aobasuyi/Cryptocurrencies/tree/main/Resources) dataset.
+- Data Source: This analysis was performed using the  [crypto_data](https://github.com/aobasuyi/Cryptocurrencies/blob/main/Resources/crypto_data.csv) dataset.
 - Software: Python 3.7, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4 and Pandas
 
 
