@@ -18,7 +18,7 @@ The technical analysis deliverables required to complete the Cryptocurrencies an
 
 ## Results: 
 
-### a.) Clustering crytocurrencies csing K-Means: 
+### a.) Clustering crytocurrencies using K-Means: 
 
 - Finding the best value for k using the Elbow Curve:<br />
 
