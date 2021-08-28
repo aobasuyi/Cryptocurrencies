@@ -29,11 +29,11 @@ The technical analysis deliverables required to complete the Cryptocurrencies an
 
 ### b.) Visualizing cryptocurrencies results:<br />
 
-- 3D-Scatter with Clusters <br />
+- 3D-Scatter with Clusters: <br />
 <br /> ![Image](Resources/cc_3D_scatter.png) <br />
 
-- Scatter plot of "TotalCoinsMined" vs "TotalCoinSupply" <br />
+- Scatter plot of "TotalCoinsMined" vs "TotalCoinSupply": <br />
 <br /> ![Image](Resources/cc_totalcoinsmined_vs_totalcoinsupply.png) <br />
 
-- Cryptocurrencies DataFrame that holds the predictions <br />
+- Cryptocurrencies dataFrame that holds the predictions: <br />
 <br /> ![Image](Resources/cc_clustered_df.png) <br />
